@@ -1,0 +1,15 @@
+Author: Senthil Kumar
+
+
+DEVELOPING ANDROID APPS COMPLETELY IN PYTHON
+By Thomas Perl
+The goal of this training is to show you how to start developing full Android applications using only Python. Different technologies will be demonstrated, including PySide-based QML GUIs using the Necessitas Qt port and the Py4A/SL4A-based approach, which can be combined with Android’s WebKit and re-use Python web frameworks.
+
+While Android already has a good SDK out of the box, being able to use Python instead of Java is a big advantage for some developers - it allows for quicker turnaround times, and reuse of Python libraries. Python on Android uses a native CPython build, so its performance and compatibility is very good. Combined with PySide (which uses a native Qt build) and Qt’s support for OpenGL ES acceleration, you can create fluent UIs even with Python.
+
+The resulting PySide-based applications run on Android, but also at least on Mac OS X, Windows, Linux and Maemo and MeeGo - basically all platforms on which Qt is available. The SL4A/Py4A-based applications will run on Android only, but will be able to utilize Android-specific APIs. Both approaches can also be combined.
+
+
+https://www.pycon.it/conference/talks/developing-android-apps-completely-in-python
+
+https://youtu.be/bXrtX6yRJJI
